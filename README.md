@@ -1,5 +1,7 @@
-# 💫 About Me:
-👋 Hi, I'm Ronit Khajuria, a Fullstack developer from INDIA.<br>👨‍🎓 Pre-final year B.Tech IT student at BVCOE, Pune.<br>🛠️ Actively looking for Internships and Full-time roles.<br>🧭 Currently exploring DSA and Devops.<br>📫 How to reach me: devxronit03@gmail.com<br>🌐 https://ronitkhajuria.vercel.app<br><br>Fun Fact: Web3 really fascinates me!
+<h2 style="text-align: center;">👋 Hi, I'm Ronit Khajuria</h2>
+<hr>
+
+👨‍🎓 Pre-final year B.Tech IT student at BVCOE, Pune.<br>🛠️ Actively looking for Internships and Full-time roles.<br>🧭 Currently exploring DSA and Devops.<br>📫 Reach me here: devxronit03@gmail.com<br>🌐 https://ronitkhajuria.vercel.app<br><br>Fun Fact: Web3 really fascinates me!
 
 
 ## 🌐 Socials:
