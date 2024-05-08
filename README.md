@@ -16,7 +16,7 @@
 
 <div style="display: flex; flex-direction: row; gap: 5px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitsharma03&theme=react&hide_border=false" alt="GitHub Streak" style="margin-right: 10px;">
-    <img height="196x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsharma03&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs">
+    <img height="196x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsharma03&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs">
 </div>
 
 
