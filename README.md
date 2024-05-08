@@ -3,7 +3,7 @@
 <h2>👋 I'm Ronit</h2>  
 </div>
 
-👨‍🎓 Pre-final year B.Tech IT student at BVCOE, Pune.<br>🛠️ Actively looking for Internships and Full-time roles.<br>🧭 Currently exploring DSA and Devops.<br>📫 Reach me here: devxronit03@gmail.com<br>🌐 https://ronitkhajuria.vercel.app<br><br>Fun Fact: Web3 really fascinates me!
+👨‍🎓 Pre-final year B.Tech IT student at BVCOE, Pune.<br>🛠️ Actively looking for Internships and Full-time roles.<br>🧭 Currently exploring DSA and Devops.<br>📫 Reach me here: devxronit03@gmail.com<br>🌐 [https://www.ronitkhajuria.vercel.app](https://ronitkhajuria.vercel.app)<br><br>Fun Fact: Web3 really fascinates me!
 
 
 ## 🌐 Socials:
@@ -16,12 +16,12 @@
 
 <div style="display: flex; flex-direction: row; gap: 5px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitsharma03&theme=react&hide_border=false" alt="GitHub Streak" style="margin-right: 10px;">
-    <img height="196x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsharma03&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs">
+    <img height="196x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitsharma03&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs">
 </div>
 
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=ronitsharma03&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
