@@ -3,7 +3,7 @@
 <h2>👋 I'm Ronit</h2>  
 </div>
 
-👨‍🎓 Pre-final year B.Tech IT student at BVCOE, Pune.<br>🛠️ Actively looking for Internships and Full-time roles.<br>🧭 Currently exploring DSA and Devops.<br>📫 Reach me here: devxronit03@gmail.com<br>🌐 [https://www.ronitkhajuria.vercel.app](https://ronitkhajuria.tech)<br><br>Fun Fact: Web3 really fascinates me!
+👨‍🎓 Pre-final year B.Tech IT student at BVCOE, Pune.<br>🛠️ Actively looking for Internships and Full-time roles.<br>🧭 Currently exploring DSA and Devops.<br>📫 Reach me here: devxronit03@gmail.com<br>🌐 [https://ronitkhajuria.tech](https://ronitkhajuria.tech)<br><br>Fun Fact: Web3 really fascinates me!
 
 
 ## 🌐 Socials:
